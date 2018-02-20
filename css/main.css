@@ -1,1 +1,5 @@
-heyo
+body {background: linear-gradient(cyan, green);}
+
+.big p{
+	font-family: 'Rammetto One', cursive;
+}
